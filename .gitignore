@@ -1,0 +1,4 @@
+clab-*/
+out/
+.env
+docker-sonic-vs-202511.gz
